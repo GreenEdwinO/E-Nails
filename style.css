@@ -844,6 +844,9 @@ font-weight: 600;
     #prodetails .single-pro-details {
       width: 100%;
     }
+    #page-header.about-header > h2, #page-header.about-header > p {
+      color: #fff;
+    }
 }
 
 @media (max-width: 477px) {
@@ -938,6 +941,14 @@ flex-direction: column;
     width: 100%;
     margin-bottom: 20px;
   }
+  #page-header.about-header > h2 {
+    margin-top: 3rem;
+  }
+  #page-header.about-header > h2, #page-header.about-header > p {
+    color: #fff;
+    text-align: center;
+  }
+
   #about-head div {
     padding-left: 0;
   }
