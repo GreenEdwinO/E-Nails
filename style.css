@@ -563,7 +563,7 @@ footer .copyright {
 
 #page-header h2,
 #page-header p {
-  color: yellow;
+  color: rgb(5, 246, 5);
   font-weight: 700;
   text-align: center;
 }
